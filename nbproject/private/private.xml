@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/xampp/htdocs/theBlue/tb-admin/css/styles.css</file>
+            <file>file:/D:/xampp/htdocs/theBlue/tb-admin/protected/modules/Comments/controllers/DefaultController.php</file>
+            <file>file:/D:/xampp/htdocs/theBlue/tb-admin/protected/modules/Documents/views/default/admin.php</file>
+            <file>file:/D:/xampp/htdocs/theBlue/tb-admin/protected/modules/Post/views/default/admin.php</file>
+            <file>file:/D:/xampp/htdocs/theBlue/tb-admin/protected/modules/Comments/models/Comment.php</file>
+            <file>file:/D:/xampp/htdocs/theBlue/tb-admin/protected/modules/System/controllers/DefaultController.php</file>
+            <file>file:/D:/xampp/htdocs/theBlue/tb-admin/protected/modules/Post/views/default/view.php</file>
+            <file>file:/D:/xampp/htdocs/theBlue/tb-admin/protected/modules/Comments/views/default/_view_list_comment_reply_entry.php</file>
+            <file>file:/D:/xampp/htdocs/theBlue/tb-admin/protected/modules/Comments/views/default/admin.php</file>
+            <file>file:/D:/xampp/htdocs/theBlue/tb-admin/protected/modules/Products/controllers/DefaultController.php</file>
+            <file>file:/D:/xampp/htdocs/theBlue/tb-admin/protected/modules/Post/controllers/DefaultController.php</file>
+            <file>file:/D:/xampp/htdocs/theBlue/tb-admin/js/theblue.js</file>
+        </group>
+    </open-files>
+</project-private>

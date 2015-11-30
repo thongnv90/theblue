@@ -1,0 +1,474 @@
+2015/05/16 17:36:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/admin/
+---
+2015/05/16 17:38:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/admin/
+---
+2015/05/16 17:38:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/admin/
+---
+2015/05/16 17:38:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/admin/
+---
+2015/05/21 21:54:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/admin
+---
+2015/05/21 21:55:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "admin".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('admin')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/admin
+---
+2015/05/31 00:26:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/file.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/file.gif')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/file.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:26:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/folder.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/folder.g...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/folder.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:26:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/folder.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/folder.g...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/folder.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:26:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/file.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/file.gif')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/file.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:26:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/file.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/file.gif')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/file.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:26:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/folder.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/folder.g...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/folder.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:26:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/file.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/file.gif')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/file.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:26:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/folder.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/folder.g...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/folder.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:26:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/folder.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/folder.g...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/folder.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:26:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/file.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/file.gif')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/file.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:27:01 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/folder.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/folder.g...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/folder.gif
+---
+2015/05/31 00:27:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/file.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/file.gif')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/file.gif
+---
+2015/05/31 00:27:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/folder.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/folder.g...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/folder.gif
+---
+2015/05/31 00:27:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/file.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/file.gif')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/file.gif
+---
+2015/05/31 00:27:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/folder.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/folder.g...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/folder.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:27:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/file.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/file.gif')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/file.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:27:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/file.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/file.gif')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/file.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:27:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/folder.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/folder.g...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/folder.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:28:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/folder.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/folder.g...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/folder.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:28:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/file.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/file.gif')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/file.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:28:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/folder.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/folder.g...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/folder.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:28:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/file.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/file.gif')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/file.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:28:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/folder.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/folder.g...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/folder.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:28:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/file.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/file.gif')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/file.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:28:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/file.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/file.gif')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/file.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/05/31 00:28:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "images/folder.gif".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('images/folder.g...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/images/folder.gif
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/06/03 21:58:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adbmin".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adbmin')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adbmin
+---
+2015/06/03 21:59:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adbmin".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adbmin')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adbmin
+---
+2015/11/07 16:05:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/jquery.menu-aim.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/jquery.menu-aim.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:05:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/main.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/main.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:05:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/jquery.menu-aim.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/jquery.menu-aim.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:05:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/main.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/main.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:07:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/main.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/main.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:07:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/jquery.menu-aim.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/jquery.menu-aim.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:07:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/jquery.menu-aim.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/jquery.menu-aim.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:07:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/main.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/main.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:16:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/main.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/main.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:16:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/jquery.menu-aim.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/jquery.menu-aim.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:16:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/jquery.menu-aim.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/jquery.menu-aim.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:16:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/main.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/main.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:18:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/jquery.menu-aim.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/jquery.menu-aim.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:18:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/main.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/main.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:18:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/jquery.menu-aim.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/jquery.menu-aim.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:18:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/main.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/main.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/jquery.menu-aim.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/jquery.menu-aim.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:18:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/main.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/main.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:18:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/jquery.menu-aim.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/jquery.menu-aim.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
+2015/11/07 16:18:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "tb-adminjs/sidebar/main.js".' in D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php:286
+Stack trace:
+#0 D:\xampp\htdocs\theBlue\yii\framework\web\CWebApplication.php(141): CWebApplication->runController('tb-adminjs/side...')
+#1 D:\xampp\htdocs\theBlue\yii\framework\base\CApplication.php(180): CWebApplication->processRequest()
+#2 D:\xampp\htdocs\theBlue\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/theBlue/tb-adminjs/sidebar/main.js
+HTTP_REFERER=http://localhost:8080/theBlue/tb-admin/Members
+---
